@@ -1,46 +1,73 @@
-# Getting Started with Create React App
+# Exoticca (Adiona) Technical Assessment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This technical assessment has been developed by Esteve Martín.
 
-## Available Scripts
+## Objectives
 
-In the project directory, you can run:
+Create a Data Table that allows:
 
-### `npm start`
+  :white_check_mark: Create Entities
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  :white_check_mark: Delete Entities
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  :white_check_mark: Filter Data by "Post Title" and "Post Description"
 
-### `npm test`
+  :white_check_mark: Use Pagination in the Table
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  :white_check_mark: Edit Entities (Bonus)
 
-### `npm run build`
+  :white_check_mark: Create Tests for the Application (Bonus)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Considerations
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<u>Consideration 1:</u> I had never worked with <b>React-Query</b> before. Everything has been learned in the last 24h so I'm sure that there's plenty of room for improvement.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<u>Consideration 2:</u> The same happens with <b>React-Testing-Library</b>. Even though it's pretty similar to Jest (which I'm more used to work with), I'm sure there's many things that can be improved.
 
-### `npm run eject`
+<u><b>Consideration 3 (the most important):</b></u> If finally you want me to join Exoticca, I would have time to learn and become an expert in <b>React-Query</b> and <b>React-Testing-Library</b> before the work starts, but in 24h that's what I have been able to learn :D
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Points for Improvement
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React-Query Mutations make components rerender making the aplication a bit slower when you write on an input field for example.
+- The side bar should be more responsive. It should hide for smaller screens and a burger icon should be used to open and close the menu.
+- Inline Styles should be removed. Classes should be managed better with styled components and themes. 
+- A dark mode should be created. Since I assume that's why the "moon" icon in the navbar is for.
+- More tests should be developed. Modals, toasts and other elements should be tested.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## How to Test de Project
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1) Clone the repository on your computer with the following command.
 
-## Learn More
+        `git clone "https://github.com/Estevemartin/exoticca-assessment.git"`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2) Move to the project directory with the following command.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+        `cd adiona`
+
+3) Install all the dependencies with the following command.
+
+        `npm install`
+
+4) Start de Project with the following command.
+
+        `npm start`
+
+5) Run the test with the following command.
+
+        `npm test`
+
+## Final Message
+
+Thank you Matej and Alejandro for this opportunity. I have had the chance of learning a bit about React-Query and React-Testing-Library thanks to this assessment. 
+
+I would really like to be able to become part of Exoticca and I'm more than willing to learn and improve in any way you think I should after reviewing this assessment.
+
+I hope to hear from you soon.
+
+Thank you.
+
+Best regards,
+
+Esteve Martín
+
+
