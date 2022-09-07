@@ -56,7 +56,7 @@ Create a Data Table that allows:
 
         npm test
 
-Or just do ir all at once:
+Or just do it all at once:
 
         git clone "https://github.com/Estevemartin/exoticca-assessment.git"
         cd exoticca-assessment
