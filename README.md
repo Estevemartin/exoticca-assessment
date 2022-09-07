@@ -20,11 +20,11 @@ Create a Data Table that allows:
 
 ## Considerations
 
-<u>Consideration 1:</u> I had never worked with <b>React-Query</b> before. Everything has been learned in the last 24h so I'm sure that there's plenty of room for improvement.
+:one: I had never worked with <b>React-Query</b> before. Everything has been learned in the last 24h so I'm sure that there's plenty of room for improvement.
 
-<u>Consideration 2:</u> The same happens with <b>React-Testing-Library</b>. Even though it's pretty similar to Jest (which I'm more used to work with), I'm sure there's many things that can be improved.
+:two: The same happens with <b>React-Testing-Library</b>. Even though it's pretty similar to Jest (which I'm more used to work with), I'm sure there's many things that can be improved.
 
-<u><b>Consideration 3 (the most important):</b></u> If finally you want me to join Exoticca, I would have time to learn and become an expert in <b>React-Query</b> and <b>React-Testing-Library</b> before the work starts, but in 24h that's what I have been able to learn :D
+:three: (the most important:triangular_flag_on_post:) If finally you want me to join Exoticca, I would have time to learn and become an expert in <b>React-Query</b> and <b>React-Testing-Library</b> before the work starts, but in 24h that's what I have been able to learn :D
 
 ## Points for Improvement
 
@@ -38,25 +38,25 @@ Create a Data Table that allows:
 
 1) Clone the repository on your computer with the following command.
 
-        `git clone "https://github.com/Estevemartin/exoticca-assessment.git"`
+        git clone "https://github.com/Estevemartin/exoticca-assessment.git"
 
 2) Move to the project directory with the following command.
 
-        `cd adiona`
+        cd exoticca-assessment
 
 3) Install all the dependencies with the following command.
 
-        `npm install`
+        npm install
 
 4) Start de Project with the following command.
 
-        `npm start`
+        npm start
 
 5) Run the test with the following command.
 
-        `npm test`
+        npm test
 
-## Final Message
+## :thumbsup: Final Message
 
 Thank you Matej and Alejandro for this opportunity. I have had the chance of learning a bit about React-Query and React-Testing-Library thanks to this assessment. 
 

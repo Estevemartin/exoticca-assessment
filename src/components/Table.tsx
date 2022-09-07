@@ -184,7 +184,7 @@ function Table({data, isLoading, isError}:TableProps) {
           <>
           {renderDeleteModal()}
           {renderEditModal()}
-          <DataGrid rows={[]} columns={columns}/>
+          <DataGrid rows={data} columns={columns}/>
           </>
         </Box>
       </Box>
