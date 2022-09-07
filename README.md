@@ -72,7 +72,7 @@ Esteve Martín
 
 ## :computer: Preview
 
-![This is a Preview](https://github.com/Estevemartin/exoticca-assessment/blob/main/src/public/img/preview.png?raw=true)
+![This is a Preview](https://github.com/Estevemartin/exoticca-assessment/blob/main/public/preview.png?raw=true)
 
 
 
