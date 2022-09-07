@@ -56,6 +56,13 @@ Create a Data Table that allows:
 
         npm test
 
+Or just do ir all at once:
+
+        git clone "https://github.com/Estevemartin/exoticca-assessment.git"
+        cd exoticca-assessment
+        npm install
+        npm start
+
 ## :thumbsup: Final Message
 
 Thank you Matej and Alejandro for this opportunity. I have had the chance of learning a bit about React-Query and React-Testing-Library thanks to this assessment. 
